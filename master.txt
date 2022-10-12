@@ -1,1 +1,3 @@
-tish is my first git pprogram 
+tish is my first git program 
+
+keep learning 
